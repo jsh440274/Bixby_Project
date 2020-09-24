@@ -1,0 +1,5 @@
+train (t-p41lmu2g6e20hv9eaqb0lxc44) {
+  utterance ([g:Restaurant] 맛집 보여줘)
+  plan (Y2BkUEpOLEotTi0qy0xO1UtPLcnJT04syczP0wtKLS5JLC1KzCthAAFGEAEA)
+  last-modified (1560425472685)
+}

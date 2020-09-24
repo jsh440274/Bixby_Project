@@ -1,0 +1,5 @@
+train (t-wi2qb8qv387zf6ur1rkr36rd9) {
+  utterance ([g:GetReversePoint] 데이터 가져와)
+  plan (Y2BiEC/LLNNLT83Xc0/NT85PSU1xTEkpSi0uZjAtyEmsTC/KL81LAcoXlxSXJBaVBAEZiaVFiXklrhWJuQU5qUBtQMGy1KLi1ID8zLwSBkYgZIBiIAkA)
+  last-modified (1560424740385)
+}
